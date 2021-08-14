@@ -49,3 +49,10 @@ header {
     font-size: 18px;
     z-index: 300;
 }
+
+.name__page {
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}

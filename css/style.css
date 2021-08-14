@@ -79,3 +79,10 @@ header {
 .options__menu a:hover{
     color: white;
 }
+
+.options__menu .option{
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}

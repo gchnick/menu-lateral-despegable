@@ -18,3 +18,12 @@ header {
     top: 0;
     z-index: 200;
 }
+
+.icon__menu {
+    width: 50px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(10px);
+}

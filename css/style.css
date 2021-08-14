@@ -56,3 +56,8 @@ header {
     align-items: center;
     margin-top: 10px;
 }
+
+.name__page i {
+    /* width: 20px; */
+    margin-right: 20px;
+}

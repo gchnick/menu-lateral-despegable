@@ -27,3 +27,9 @@ header {
     align-items: center;
     transform: translateX(10px);
 }
+
+.icon__menu i {
+    font-size: 20px;
+    cursor: pointer;
+    position: absolute;
+}

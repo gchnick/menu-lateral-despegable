@@ -41,7 +41,7 @@ header {
 .menu__side {
     width: 250px;
     height: 100%;
-    background: red;
+    background: #1783db;
     position: fixed;
     top: 0;
     left: 0;
@@ -102,6 +102,12 @@ a.selected{
     color: #fff
 }
 
-.selected{
-
+.selected::before{
+    content: '';
+    width: 3px;
+    height: 80%;
+    background: white;
+    position: absolute;
+    top: 10%;
+    left: -30px;
 }

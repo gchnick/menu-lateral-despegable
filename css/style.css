@@ -58,7 +58,7 @@ header {
 }
 
 .name__page i {
-    /* width: 20px; */
+    width: 20px;
     margin-right: 20px;
 }
 
@@ -85,4 +85,8 @@ header {
     display: flex;
     align-items: center;
     position: relative;
+}
+
+.options__menu .option i {
+    margin-right: 20px;
 }

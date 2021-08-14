@@ -90,4 +90,14 @@ header {
 .options__menu .option i {
     width: 20px;
     margin-right: 20px;
+    cursor: pointer;
+}
+
+.options__menu .option h4 {
+    font-weight: 300;
+    cursor: pointer;
+}
+
+a.seleted{
+    color: #fff
 }

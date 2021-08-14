@@ -67,3 +67,10 @@ header {
     position: absolute;
     top: 80px;
 }
+
+.options__menu a {
+    color: #ffffffb2;
+    cursor: default;
+    display: block;
+    position: relative;
+}

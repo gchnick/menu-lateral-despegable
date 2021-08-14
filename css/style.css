@@ -98,6 +98,10 @@ header {
     cursor: pointer;
 }
 
-a.seleted{
+a.selected{
     color: #fff
+}
+
+.selected{
+
 }

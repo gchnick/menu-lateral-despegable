@@ -73,6 +73,7 @@ header {
     cursor: default;
     display: block;
     position: relative;
+    transition: color 300ms;
 }
 
 .options__menu a:hover{
